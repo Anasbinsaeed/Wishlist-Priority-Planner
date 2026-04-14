@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 eb7712a15f1a84ee126c12991b35d4d1041c65de Anas Bin Saeed <anasbinsaeed2@gmail.com> 1774634555 +0500	commit (initial): created a new empty project to get started
+eb7712a15f1a84ee126c12991b35d4d1041c65de 44fa871a139907a9830f4ba3c7fe3a907ac84058 Anas Bin Saeed <anasbinsaeed2@gmail.com> 1774951544 +0500	commit: added apk in the repository
+44fa871a139907a9830f4ba3c7fe3a907ac84058 070795ad6f08d55e05143a7bb263b4dbbbff2b59 Anas Bin Saeed <anasbinsaeed2@gmail.com> 1775486635 +0500	commit: added some features like search for wishes, added badge icon on the all wishes tab, added sorting options, rearranged complete and archive buttons, added undo delete, share wishes, streaks tracking, priority based sorting on home and some minor UI fixes
+070795ad6f08d55e05143a7bb263b4dbbbff2b59 d8cd9a7acdf269be1ab5a3f637eadd4c46e5fdd7 Anas Bin Saeed <anasbinsaeed2@gmail.com> 1775662086 +0500	commit: latest version of the app
+d8cd9a7acdf269be1ab5a3f637eadd4c46e5fdd7 bc83dee1518a940b8b252320e12bead1e0049e7b Anas Bin Saeed <anasbinsaeed2@gmail.com> 1775820779 +0500	commit: fixed
